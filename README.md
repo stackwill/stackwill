@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm William Hanlon (Will)
 
-<!--
-**stackwill/stackwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=stackwill&color=blueviolet)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Currently Uploading
+Just created a GitHub account, so projects I've made over differing periods of time are being uploaded in close frequency now.
+
+---
+
+### 🧠 Tech Stack
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### 🧭 Preferences
+
+- 🧠 Like: Vim keybindings
+- 🐧 Like: Linux
+- 💻 Like: Next.js
+
+---
+
+### 📍 Location
+London, UK
+
+---
+
+### 📬 Reach Me
+- GitHub: [stackwill](https://github.com/stackwill)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stackwill&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
