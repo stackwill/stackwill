@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/XZLgYWzv/Screenshot-2025-05-17-at-21-58-09-Git-Hub-Banner.png"
-</p>
-
 <h1 align="center">Hi, I'm Will</h1>
 <h3 align="center">Keep it simple, stupid!</h3>
 
