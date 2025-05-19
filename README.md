@@ -7,7 +7,7 @@
 <h3 align="center">Keep it simple, stupid!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stackwill&label=Profile%20views&color=0e75b6&style=flat" alt="stackwill" />
+  <img src="https://komarev.com/ghpvc/?username=stackwill&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="stackwill" />
 </p>
 
 <p align="center">
