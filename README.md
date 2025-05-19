@@ -23,9 +23,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="center">
-  Just created a GitHub account, so projects I've made over differing periods of time are being uploaded in close frequency now.
-</p>
+> ⚠️ **Note:** Just created a GitHub account, so projects I've made over differing periods of time are being uploaded in close frequency now. 
+
 
 <p align="center">
   <a href="https://github.com/stackwill" target="_blank">Visit my GitHub</a>
