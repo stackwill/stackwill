@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.postimg.cc/8PdrxcfD/stackwill-19-05-2025.png" alt="Portfolio OS Screenshot" width="400"/>
+</p>
+
+
 <h1 align="center">Hi, I'm Will</h1>
 <h3 align="center">Keep it simple, stupid!</h3>
 
