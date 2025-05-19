@@ -28,6 +28,3 @@
 
 ---
 
-<p align="center">
-  🔗 <strong>What if my portfolio was an operating system:</strong> <a href="https://w1.lol" target="_blank">w1.lol</a>
-</p>
