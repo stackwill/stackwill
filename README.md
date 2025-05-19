@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/8PdrxcfD/stackwill-19-05-2025.png" alt="Portfolio OS Screenshot" width="400"/>
+  <img src="https://i.postimg.cc/C5V0bFNL/stackwill-19-05-2025-1.png" alt="Portfolio OS Screenshot" width="400"/>
 </p>
 
 
