@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <a href="https://w1.lol" target="_blank">Visit my Portfolio (Outdated!!)</a>
+  <a href="https://williamhanlon.com" target="_blank">Visit my Portfolio</a>
 </p>
 
 ---
